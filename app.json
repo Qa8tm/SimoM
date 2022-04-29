@@ -1,14 +1,14 @@
 {
-    "name": "سورس ميوزك جيبثون",
-    "description": "اهلا بك في تنصيب ميوزك جيبثون مجانا @Jepthon",
-    "logo": "https://telegra.ph/file/66ec52e60aff4ce906336.jpg",
+    "name": "سورس ميوزك سيمو",
+    "description": "اهلا بك في تنصيب ميوزك سيمو @ADWSL",
+    "logo": "https://telegra.ph/file/e425cd02f4167f2219523.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "jepthon",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/lMl10l/MusicJep",
+    "repository": "https://github.com/Qa8tm/SimoM",
     "env": {
         "SESSION": {
             "description": "هنا ضع كود البايروكرام",
@@ -21,7 +21,7 @@
         "HNDLR": {
             "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
             "required": false,
-            "value": "$"
+            "value": ""
         },
         "API_HASH": {
             "description": "هنا ضع الايبي هاش",
